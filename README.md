@@ -15,14 +15,7 @@
 
 %d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n
 
-%d{yyyy-MM-dd HH:mm:ss} = Date and time format, refer to SimpleDateFormat JavaDoc.
-%-5p = The logging priority, like DEBUG or ERROR. The -5 is optional, for the pretty print format.
-%c{1} = The logging name we set via getLogger(), refer to log4j PatternLayout guide.
-%L = The line number from where the logging request.
-%m%n = The message to log and line break.
-
 2014-07-02 20:52:39 DEBUG className:200 - This is debug message
-
 2014-07-02 20:52:39 DEBUG className:201 - This is debug message2
 
 
