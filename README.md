@@ -16,6 +16,7 @@
 %d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n
 
 2014-07-02 20:52:39 DEBUG className:200 - This is debug message
+
 2014-07-02 20:52:39 DEBUG className:201 - This is debug message2
 
 
