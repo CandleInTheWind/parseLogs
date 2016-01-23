@@ -22,6 +22,7 @@
 %m%n = The message to log and line break.
 
 2014-07-02 20:52:39 DEBUG className:200 - This is debug message
+
 2014-07-02 20:52:39 DEBUG className:201 - This is debug message2
 
 
